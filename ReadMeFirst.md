@@ -1,11 +1,13 @@
 
 
-
-## 102717_time_series
+## 102717_time_series_digitalOcean
 ---
 ## A Guide to Time Series Forecasting with ARIMA in Python 3
 ## https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3
 
+
+## 102617_time_series_basic
+---
 ## A comprehensive beginner’s guide to create a Time Series Forecast (with Codes in Python)
 ## https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/
 
@@ -34,3 +36,6 @@
 ## Knowledge Base:
 ## A Complete Tutorial on Time Series Modeling in R
 ## https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/
+
+
+ 
