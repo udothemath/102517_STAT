@@ -1,6 +1,8 @@
 ## 111017_maxLikelihoodEst
-## ## https://stackoverflow.com/questions/25010215/pandas-groupby-how-to-compute-counts-in-ranges
-## GroupBy range 
+---
+## Estimating Custom Maximum Likelihood Models in Python (and Matlab)
+## http://rlhick.people.wm.edu/posts/estimating-custom-mle.html
+## https://stackoverflow.com/questions/25010215/pandas-groupby-how-to-compute-counts-in-ranges
 
 
 ## 102717_time_series_digitalOcean
