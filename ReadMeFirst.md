@@ -1,3 +1,6 @@
+## 111017_maxLikelihoodEst
+## ## https://stackoverflow.com/questions/25010215/pandas-groupby-how-to-compute-counts-in-ranges
+## GroupBy range 
 
 
 ## 102717_time_series_digitalOcean
