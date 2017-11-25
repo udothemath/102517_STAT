@@ -1,3 +1,11 @@
+
+
+## 112317_ts_arima_seanabu
+## Seasonal ARIMA with Python
+## http://www.seanabu.com/2016/03/22/time-series-seasonal-ARIMA-model-in-python/
+## data
+## https://datamarket.com/data/set/22w6/portland-oregon-average-monthly-bus-ridership-100-january-1973-through-june-1982-n114#!ds=22w6&display=line
+
 ## 111017_maxLikelihoodEst
 ---
 ## Estimating Custom Maximum Likelihood Models in Python (and Matlab)
