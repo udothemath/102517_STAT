@@ -1,4 +1,11 @@
 ## 112617_forcasting_lecture
+
+## 112817
+## Review of basic statistics and the simplest
+forecasting model: the sample mean
+## http://people.duke.edu/~rnau/Review_of_basic_statistics_and_the_mean_model_for_forecasting--Robert_Nau.pdf
+
+## 112617
 ## Statistical forecasting:
 notes on regression and time series analysis
 ## http://people.duke.edu/~rnau/411home.htm
