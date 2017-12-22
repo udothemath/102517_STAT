@@ -16,6 +16,7 @@ sign only, not strength
 ## PL05
 ## discrete probability distributions
 ### binomial distributions
+### introduction to the Poisson Distribution
 
 
 ## video_clip
