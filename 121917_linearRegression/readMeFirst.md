@@ -1,3 +1,7 @@
+## 122517
+## confidence interval
+we are not saying we are XX % (95 %) confident the population mean is in the interval. We are saying that we are XX % (95 %) confident that this interval contains the population mean. 
+
 ## 122217
 ## PL05
 ### Poisson distribution
