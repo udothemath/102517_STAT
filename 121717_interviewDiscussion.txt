@@ -1,0 +1,16 @@
+## 121717 Interview Discussion: 
+
+p-value
+hypothesis testing
+linear regression
+regularization: l1(lasso), l2(ridge regression), elastic nets
+validation
+evaluation
+boosting method
+
+coding:
+
+how to find the duplicate in a list?
+
+interviewer:
+Spencer Carter

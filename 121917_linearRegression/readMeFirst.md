@@ -6,7 +6,6 @@ we are not saying we are XX % (95 %) confident the population mean is in the int
 ## PL05
 ### Poisson distribution
 
-
 ## 122117
 
 ## PL03
@@ -25,7 +24,6 @@ sign only, not strength
 ## discrete probability distributions
 ### binomial distributions
 ### introduction to the Poisson Distribution
-
 
 ## video_clip
 ## Brandon Foltz Statistic 101
