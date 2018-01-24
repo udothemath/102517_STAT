@@ -3,6 +3,11 @@
 ## YouTube Video
 ## https://www.youtube.com/watch?v=Yvn3--rIdZg
 
+## YouTube Video
+## Salford Systems
+## https://www.youtube.com/user/salforddatamining/playlists
+
+
 ## 011318
 ## data
 ## TwoWayBlockANOVA_BLANK in excel
